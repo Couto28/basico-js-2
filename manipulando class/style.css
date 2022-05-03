@@ -1,0 +1,30 @@
+#exemplo {
+    color: white;
+    height: 200px;
+    width: 200px;
+    
+}
+.verde {
+    
+    margin: 20px;
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    
+}
+.azul {
+    
+    margin: 20px;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    
+}
+.vermelho {
+    
+    margin: 20px;
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    
+}
