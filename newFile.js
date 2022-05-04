@@ -1,0 +1,2 @@
+// atribuindo Getter 
+get;
